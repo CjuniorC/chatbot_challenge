@@ -18,6 +18,8 @@ Code to get the five oldest repositories on github with c# as a primary language
 
 # For More information
 
-[BLiP Documentation](https://docs.blip.ai/)
-[How to create a bot using the builder tool](https://help.blip.ai/hc/pt-br/articles/360001094371-Como-criar-um-bot-com-o-Builder-do-BLiP)
-[GitHub public API](https://developer.github.com/v3/)
+[BLiP Documentation](https://docs.blip.ai/);
+
+[How to create a bot using the builder tool](https://help.blip.ai/hc/pt-br/articles/360001094371-Como-criar-um-bot-com-o-Builder-do-BLiP);
+
+[GitHub public API](https://developer.github.com/v3/);
